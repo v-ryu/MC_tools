@@ -1,0 +1,2 @@
+第二版新增了存档配置功能，可将MCsaves文件夹里的存档配置到PCL2指定的.minecraf文件夹里的versions里，更新存档更加方便
+记得运行"clear_icon_cache.bat"文件，刷新任务资源管理器可看见图标
